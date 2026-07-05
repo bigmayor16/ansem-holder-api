@@ -1,0 +1,9 @@
+{
+  "name": "ansem-holder-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Serverless API that returns the real-time holder count for the ANSEM Solana token, backed by Helius.",
+  "engines": {
+    "node": ">=18"
+  }
+}
