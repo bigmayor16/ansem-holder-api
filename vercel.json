@@ -1,8 +1,10 @@
+Content is user-generated and unverified.
+1
 {
   "functions": {
     "api/holders.js": {
       "memory": 256,
-      "maxDuration": 15
+      "maxDuration": 60
     }
   }
 }
